@@ -1,11 +1,14 @@
-# My Portfolio 
+# About Me
 
-Explore my work in generative AI and other software domains:
+## My Portfolio
+Explore my work in AI technologies and other software domains:
 
-- [Generative AI Portfolio](https://github.com/gritholdings/python-examples)
-- [Software Portfolio](https://github.com/gritholdings)
+- [AI Agent Platform (Backend)](https://github.com/gritholdings/django-apprunner-chatbot)
+- [AI Agent Webapp (Frontend)](https://github.com/gritholdings/amplify-next-chatbot)
+- [Generative AI Examples](https://github.com/gritholdings/python-examples)
+- [Other Software Solutions](https://github.com/gritholdings)
 
-# Contact
+## Contact
 
 How to reach me:
 - https://www.linkedin.com/in/edwardwg/

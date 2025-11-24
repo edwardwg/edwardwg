@@ -3,9 +3,7 @@
 ## My Portfolio
 Explore my work in AI technologies and other software domains:
 
-- [AI Agent Platform (Backend)](https://github.com/gritholdings/django-apprunner-chatbot)
-- [AI Agent Webapp (Frontend)](https://github.com/gritholdings/amplify-next-chatbot)
-- [Generative AI Examples](https://github.com/gritholdings/python-examples)
+- [Agentic AI CRM and ERP solutions](https://github.com/gritholdings/grit-one-sdk-python)
 - [Other Software Solutions](https://github.com/gritholdings)
 
 ## Contact
